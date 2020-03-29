@@ -1,2 +1,3 @@
 # hello-world
 First exercise repo
+Getting started with GitHub, baby...
